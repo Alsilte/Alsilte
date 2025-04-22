@@ -26,8 +26,7 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
 
 ## 📫 Contáctame
 - ([Linkedin](https://www.linkedin.com/in/alejandro-silla-tejero-7a75bb146/?originalSubdomain=es))
-- ([Email](alejandrosilla6@gmail.com))
-
+- [Email] (alejandrosilla6@gmail.com)
 
 ---
 ⭐️ ¡Gracias por visitar mi perfil! ⭐️
