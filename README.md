@@ -1,5 +1,4 @@
 # ¡Hola, soy Alejandro! 👋
-
 ## Sobre mí
 Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me encuentro realizando prácticas en la empresa 3dr, donde estoy aprendiendo Vue.js y trabajando con Three.js para crear experiencias web interactivas y visualmente atractivas.
 
@@ -30,12 +29,29 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
 
 ## 📊 Mis estadísticas de GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alsilte&show_icons=true&theme=dracula&locale=es" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsilte&layout=compact&theme=dracula&locale=es" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alsilte&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&hide_border=true&ring_color=58A6FF&locale=es" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsilte&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&hide_border=true&locale=es" />
 </div>
+
 <div align="center">
-  <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alsilte&theme=dracula&locale=es" />
+  <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alsilte&theme=tokyonight&background=0D1117&hide_border=true&border_radius=10&locale=es" />
 </div>
+
+## 🐍 Mis contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake.svg">
+  <img alt="Contribuciones GitHub" src="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake.svg">
+</picture>
+
+## ⚡ Actividad reciente
+[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Alsilte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FB8C00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 Logros GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alsilte&theme=nord&column=7&no-frame=true&margin-w=15" />
+</p>
 
 ## 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/alejandro-silla-tejero-7a75bb146/?originalSubdomain=es)
