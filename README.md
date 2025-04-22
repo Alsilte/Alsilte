@@ -24,7 +24,6 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="Sourcetree" />
 </div>
-- Otros: [Otras tecnologías que conozcas]
 
 ## 📊 Mis estadísticas de GitHub
 
