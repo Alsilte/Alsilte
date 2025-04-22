@@ -1,4 +1,4 @@
-# ¡Hola, soy Alsilte! 👋
+# ¡Hola, soy Alejandro! 👋
 
 ## Sobre mí
 Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me encuentro realizando prácticas en la empresa 3dr, donde estoy aprendiendo Vue.js y trabajando con Three.js para crear experiencias web interactivas y visualmente atractivas.
