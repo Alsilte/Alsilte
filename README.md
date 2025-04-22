@@ -14,6 +14,7 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="40" height="40" alt="Sass" title="Sass"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://user-images.githubusercontent.com/25181517/117448124-f00a3a80-af3e-11eb-89d7-5f0e1dab73b4.png" width="40" height="40" alt="Vue.js" title="Vue.js"/>
+  <img src="https://user-images.githubusercontent.com/157834307/198158419-93a9874c-a147-4b1b-b65c-656e1760214c.png" width="40" height="40" alt="Three.js" title="Three.js"/>
   
   <!-- Herramientas -->
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" title="Git"/>
