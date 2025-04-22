@@ -38,15 +38,9 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
   <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alsilte&theme=tokyonight&background=0D1117&hide_border=true&border_radius=10&locale=es" />
 </div>
 
-## 🐍 Mis contribuciones
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake.svg">
-  <img alt="Contribuciones GitHub" src="https://raw.githubusercontent.com/Alsilte/Alsilte/output/github-contribution-grid-snake.svg">
-</picture>
-
-## ⚡ Actividad reciente
+## 📈 Mi actividad en GitHub
 [![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Alsilte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FB8C00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 Logros GitHub
 <p align="center">
