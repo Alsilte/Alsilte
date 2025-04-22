@@ -12,6 +12,7 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
 ## 💻 Tecnologías y herramientas
 - Frontend: HTML, CSS, JavaScript, Vue.js
 - 3D en web: Three.js
+- Otros: [Otras tecnologías que conozcas]
 
 ## 📊 Mis estadísticas de GitHub
 
@@ -25,8 +26,8 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente me en
 </div>
 
 ## 📫 Contáctame
-- ([Linkedin](https://www.linkedin.com/in/alejandro-silla-tejero-7a75bb146/?originalSubdomain=es))
-- [Email] (alejandrosilla6@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-silla-tejero-7a75bb146/?originalSubdomain=es)
+- [Email](mailto:alejandrosilla6@gmail.com)
 
 ---
 ⭐️ ¡Gracias por visitar mi perfil! ⭐️
